@@ -37,15 +37,29 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+<img width="1392" height="844" alt="Screenshot 2026-03-19 225020" src="https://github.com/user-attachments/assets/a079e545-3b90-49ae-b0bd-04edfcf16a2a" />
+<img width="1347" height="861" alt="Screenshot 2026-03-19 225035" src="https://github.com/user-attachments/assets/a1add9f7-6a2a-4d4b-86f5-3ad2e0266481" />
+<img width="1328" height="821" alt="Screenshot 2026-03-19 225053" src="https://github.com/user-attachments/assets/0c435897-ab44-453a-807e-81b28b6ec38b" />
+<img width="1330" height="831" alt="Screenshot 2026-03-19 225105" src="https://github.com/user-attachments/assets/e8941866-9a84-4fa1-941a-7cc3376fb68b" />
 
 Bridge rectifier with filter:
+<img width="1330" height="815" alt="Screenshot 2026-03-19 225134" src="https://github.com/user-attachments/assets/ceefb74e-4dec-4aad-a1b1-a210ea4d2a68" />
+<img width="1150" height="722" alt="Screenshot 2026-03-19 225517" src="https://github.com/user-attachments/assets/442e76c6-bf9e-47af-a0be-b59fcd5ad866" />
+<img width="838" height="543" alt="Screenshot 2026-03-19 225524" src="https://github.com/user-attachments/assets/b3e9f87b-e845-4566-a4f5-8c0170d9ac60" />
+<img width="972" height="625" alt="Screenshot 2026-03-19 225531" src="https://github.com/user-attachments/assets/a7fcf0f5-737b-4b99-9d5f-e4d4af564045" />
 
 TABULAR COLUMN
 Rectifier without filter
+<img width="609" height="826" alt="Screenshot 2026-03-19 224857" src="https://github.com/user-attachments/assets/3f410e53-8499-46a4-a188-9c4e1a092963" />
+
 TABULAR COLUMN
 Rectifier with filter
+<img width="598" height="822" alt="Screenshot 2026-03-19 224932" src="https://github.com/user-attachments/assets/d01e7988-5322-4219-9345-12bc15b1c05b" />
+
 
 WAVEFORM:
+<img width="613" height="812" alt="Screenshot 2026-03-19 224940" src="https://github.com/user-attachments/assets/15974a62-55bd-43fc-ba26-d4e41c30ea7b" />
+<img width="633" height="779" alt="Screenshot 2026-03-19 224946" src="https://github.com/user-attachments/assets/6eefb536-dc9c-4fba-beb6-75c0d021648a" />
 
 
 RESULT:
